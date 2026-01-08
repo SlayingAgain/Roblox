@@ -11,7 +11,7 @@
 local Players = game:GetService("Players")
 
 local Games = {
-    [98629859043211] = "https://raw.githubusercontent.com/SlayingAgain/Roblox/refs/heads/main/Games/MEG%20Endless%20Reality/Main.lua",
+    [6568417585] = "https://raw.githubusercontent.com/SlayingAgain/Roblox/refs/heads/main/Games/MEG%20Endless%20Reality/Main.lua",
     [93978595733734] = "https://raw.githubusercontent.com/SlayingAgain/Roblox/refs/heads/main/Games/Violence%20District/Main.lua"
 }
 
